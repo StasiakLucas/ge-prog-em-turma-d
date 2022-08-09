@@ -7,6 +7,11 @@ h1 {
   color: #4EF5AA
 }
 
+#estoque {
+  height: 350px;
+  border: 15px solid #FFFFFF;
+}
+
 h2 {
   text-align: center;
   color: #4EF5AA
