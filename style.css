@@ -1,10 +1,10 @@
 body {
-  background-color: #A82914
+  background-color: #A82914;
 }
 
-h1 {
+.titulo-principal {
   text-align: center;
-  color: #4EF5AA
+  color: #4EF5AA;
 }
 
 #estoque {
@@ -12,13 +12,29 @@ h1 {
   border: 15px solid #FFFFFF;
 }
 
-h2 {
-  text-align: center;
-  color: #4EF5AA
+p {
+  text-align: justify; 
+  font-size: 18px; 
+  color: #71FFBE;
 }
 
-p {
-  text-align: justify;
+.titulo-listas {
+  color:#4EF5AA;
+  border: 5px dotted #4EF5AA;
+  text-align: center;
+  font-size: 24px;
+  padding: 4px;
+}
+
+.itens {
+  color:#4EF5AA;
   font-size: 18px;
-  color: #71FFBE
+}
+
+.pano-prato {
+  background-color: #71FFBE;
+}
+
+.pano-prato p {
+  color:#A82914;
 }
